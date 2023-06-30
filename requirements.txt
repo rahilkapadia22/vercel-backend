@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+werkzeug
+regex
+pyngrok
+timm==0.4.12
+transformers==4.15.0
+fairscale==0.4.4
+pycocoevalcap
+torch
+torchvision
+Pillow
+scipy
+git+https://github.com/openai/CLIP.git
+numpy
+opencv-python-headless
+python-multipart
